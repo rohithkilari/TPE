@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Requested Item)">8aeb9eb797ebb110f682b12de053afe4</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Requested Item)</name>
+        <order/>
+        <parent>4aeb9eb797ebb110f682b12de053afd6</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-12 10:54:40</sys_created_on>
+        <sys_id>86eb9eb797ebb110f682b12de053afeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Requested Item)</sys_name>
+        <sys_package display_value="TPE" source="x_266416_tpe">32da927797ebb110f682b12de053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPE">32da927797ebb110f682b12de053af4f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_86eb9eb797ebb110f682b12de053afeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-12 10:54:40</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=86eb9eb797ebb110f682b12de053afeb"/>
+</record_update>
