@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>assigned_to</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>50</order>
+        <record_id_field/>
+        <screen display_value="Details">c2eb9eb797ebb110f682b12de053afd8</screen>
+        <screen_data_item_table>sc_req_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-12 10:54:40</sys_created_on>
+        <sys_id>06eb9eb797ebb110f682b12de053afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="TPE" source="x_266416_tpe">32da927797ebb110f682b12de053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPE">32da927797ebb110f682b12de053af4f</sys_scope>
+        <sys_update_name>sys_sg_screen_field_06eb9eb797ebb110f682b12de053afed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-12 10:54:40</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>
