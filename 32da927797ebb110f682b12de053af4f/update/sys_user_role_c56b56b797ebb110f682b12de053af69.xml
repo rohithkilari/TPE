@@ -6,7 +6,7 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_266416_tpe.tpe_super_user</name>
+        <name>x_266416_tpe.tpe_user</name>
         <requires_subscription>-1</requires_subscription>
         <scoped_admin>false</scoped_admin>
         <suffix>x_266416_tpe.tpe_super_user</suffix>
